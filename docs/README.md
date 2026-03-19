@@ -2,7 +2,7 @@
 
 Small AWS project: automated deployment of a Minecraft server using Terraform.
 
-This was my **very first real IaC project** — before moving to the Cloud Resume Challenge (serverless website) and then ZeeURL (full Kubernetes + GitOps stack).
+This was my **very first real IaC project** — before moving to the [Cloud Resume Challenge](https://github.com/Zeeward41/Cloud_Resume_Challenge) (serverless website) and then [ZeeURL](https://github.com/Zeeward41/ZeeUrl) (full Kubernetes + GitOps stack).
 
 ## Features
 
