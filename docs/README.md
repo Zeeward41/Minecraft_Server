@@ -51,7 +51,7 @@ After this, I built the [Cloud Resume Challenge](https://github.com/zeeward41/cl
 
 ## License
 
-[MIT License](docs/License.md)
+[MIT License](License.md)
 
 **Personal note**  
 100% solo — first step in my career transition (2024).  
